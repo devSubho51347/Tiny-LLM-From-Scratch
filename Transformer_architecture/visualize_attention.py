@@ -8,8 +8,8 @@ from multi_head_attention import MultiHeadAttention
 
 def visualize_attention():
     # Set parameters
-    embed_size = 512
-    heads = 8
+    embed_size = 12
+    heads = 2
     seq_len = 10
     batch_size = 1
 
